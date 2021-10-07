@@ -13,7 +13,7 @@
 
 ![linktreepasso2](https://github.com/mairatailor/portfolio/blob/main/assets/linktree2.gif)
 
-## Caso queira excluir, basta clicar na lixeira dentro do campo de informações e selecionar “delete”.
+## Caso queira excluir, basta clicar na lixeira dentro do campo de informações e selecionar “Delete”.
 
 ![lintreepasso3](https://github.com/mairatailor/portfolio/blob/main/assets/linktree03.jpeg)
 
